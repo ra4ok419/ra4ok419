@@ -21,7 +21,7 @@
 
 ## Get in touch <br/>
 - 📫 Email: [rsandygali@gmail.com](mailto:rsandygali@gmail.com)  <br/>
-- 📫 Telegram: [@ra4ok_419](@ra4ok_419)  <br/>
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ra4ok_419)
 
 
 # 💻 Tech Stack:
