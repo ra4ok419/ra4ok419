@@ -1,4 +1,4 @@
-# Hi, I'm Ramazan 👋
+# Hi, I'm Ramazan Sandtgaliyev
 
 🎓 3rd-year **Data Science** student at **Suleyman Demirel University (SDU)**  
 📍 Almaty & Kaskelen, **Almaty Oblast (Алматы облысы), Kazakhstan**  <br/>
@@ -12,15 +12,16 @@
 - 🤝 Open to internships, project collaborations, and Kaggle/competition teams <br/>
 
 ## Tech I use (and keep learning) <br/>
-- **Languages:** Python, SQL  <br/>
+- **Languages:** Python, SQL, R <br/>
 - **DS stack:** Jupyter, pandas, NumPy, scikit-learn, Matplotlib/Plotly  <br/>
-- **Tools:** Git/GitHub, Google Colab, VS Code <br/>
+- **Tools:** Git/GitHub, Google Colab, VS Code, Linux <br/>
 
 ## Education <br/>
 - B.Sc. (Course 3) in **Data Science**, **Suleyman Demirel University (SDU)** — Kaskelen, Almaty Oblast <br/>
 
 ## Get in touch <br/>
 - 📫 Email: [rsandygali@gmail.com](mailto:rsandygali@gmail.com)  <br/>
+- 📫 Telegram: [@ra4ok_419](@ra4ok_419)  <br/>
 
 
 # 💻 Tech Stack:
