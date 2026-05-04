@@ -1,4 +1,4 @@
-# Hi, I'm Ramazan Sandtgaliyev
+# Hi, I'm Ramazan Sandygaliyev
 
 🎓 3rd-year **Data Science** student at **Suleyman Demirel University (SDU)**  
 📍 Almaty & Kaskelen, **Almaty Oblast (Алматы облысы), Kazakhstan**  <br/>
